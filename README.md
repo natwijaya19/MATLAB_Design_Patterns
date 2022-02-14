@@ -1,2 +1,2 @@
-# MATLAB_Design_Patterns-
+# MATLAB_Design_Patterns
 MATLAB Design Patterns 
